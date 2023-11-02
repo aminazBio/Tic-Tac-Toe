@@ -1,4 +1,4 @@
-# tic-tac-toe
+# Tic-Tac-Toe
 In this program, tic-tac-toe game which is called 'Dose' in persian, is simulated using random numbers that are generated automatically. The main difference here is that instead of asking one of the two users to play their game every time, the program randomly chooses a specific move for each one and performs it.
 
 Hints:  
